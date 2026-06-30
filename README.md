@@ -6,9 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2090-k-radius-subarray-averages](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 ## Sliding Window
 |  |
 | ------- |
 | [2090-k-radius-subarray-averages](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2090-k-radius-subarray-averages) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
