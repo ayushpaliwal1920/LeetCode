@@ -15,7 +15,7 @@ class Solution {
         //     min = Math.min(min , helperMemo(n-1 , j , matrix , dp));
         // }
 
-        return helperTabulation1(matrix);
+        return helperOptimal(matrix);
     }
 
     // Recursion : 
@@ -86,6 +86,49 @@ class Solution {
 
         for (int c = 0; c < m; c++) {
             min = Math.min(min, dp[n - 1][c]);
+        }
+
+        return min;
+    }
+
+//   Optimal : 
+
+     public static int helperOptimal(int[][] matrix) {
+
+
+        int n = matrix.length;
+        int m = matrix[0].length;
+
+        int[] prev = new int[m];
+
+        for(int j = 0 ; j< m ; j++){
+            prev[j] = matrix[0][j];
+        }
+
+
+        for (int r = 1; r < n; r++) {
+            int[] curr = new int[m];
+
+            for (int c = 0; c < m; c++) {
+                int upleft = (int) 1e9;
+                int upright = (int) 1e9;
+                int up = matrix[r][c] + prev[c];
+                if (c > 0) {
+                    upleft = matrix[r][c] + prev[c - 1];
+                }
+                if (c < m - 1) {
+                    upright = matrix[r][c] + prev[c + 1];
+                }
+
+                curr[c] = Math.min(up, Math.min(upleft, upright));
+            }
+            prev = curr;
+        }
+
+        int min = Integer.MAX_VALUE;
+
+        for (int c = 0; c < m; c++) {
+            min = Math.min(min , prev[c]);
         }
 
         return min;
