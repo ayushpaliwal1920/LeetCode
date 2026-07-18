@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2090-k-radius-subarray-averages](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2090-k-radius-subarray-averages) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1753-maximum-score-from-removing-stones](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
+## Binary Search
+|  |
+| ------- |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 <!---LeetCode Topics End-->
