@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1463-cherry-pickup-ii](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1463-cherry-pickup-ii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2090-k-radius-subarray-averages](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2090-k-radius-subarray-averages) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Counting
 |  |
