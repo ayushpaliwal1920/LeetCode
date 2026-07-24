@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1463-cherry-pickup-ii](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1463-cherry-pickup-ii](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1463-cherry-pickup-ii) |
 ## Matrix
 |  |
