@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Sliding Window
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Union-Find
 |  |
 | ------- |
