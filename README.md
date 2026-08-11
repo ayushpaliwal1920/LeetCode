@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [1991-find-the-middle-index-in-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2090-k-radius-subarray-averages](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
