@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0054-spiral-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Two Pointers
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bracket Sequences
 |  |
 | ------- |
