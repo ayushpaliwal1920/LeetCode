@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2611-mice-and-cheese](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2611-mice-and-cheese) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2611-mice-and-cheese](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2611-mice-and-cheese) |
 ## Dynamic Programming
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-maximum-score-from-removing-stones](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2611-mice-and-cheese](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2611-mice-and-cheese) |
 ## Heap (Priority Queue)
 |  |
