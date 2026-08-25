@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0890-find-and-replace-pattern](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0931-minimum-falling-path-sum](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0389-find-the-difference](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0389-find-the-difference) |
+| [0890-find-and-replace-pattern](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0389-find-the-difference) |
 | [0551-student-attendance-record-i](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0796-rotate-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0796-rotate-string) |
+| [0890-find-and-replace-pattern](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1903-largest-odd-number-in-string) |
