@@ -250,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0322-coin-change) |
+## Database
+|  |
+| ------- |
+| [1527-patients-with-a-condition](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
