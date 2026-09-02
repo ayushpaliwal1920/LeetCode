@@ -1,0 +1,7 @@
+# Write your MySQL query statement below
+
+SELECT USER_ID AS buyer_id, join_date , COUNT(dISTINCT O.ORDER_ID) AS  orders_in_2019
+FROM USERS U
+LEFT JOIN ORDERS O
+ON U.USER_ID = O.BUYER_ID AND YEAR(ORDER_DATE) = "2019"
+GROUP BY U.USER_ID , U.JOIN_DATE;
