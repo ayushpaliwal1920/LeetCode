@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1158-market-analysis-i](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1158-market-analysis-i) |
 | [1527-patients-with-a-condition](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1527-patients-with-a-condition) |
 ## Backtracking
 |  |
