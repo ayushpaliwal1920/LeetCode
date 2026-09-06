@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Matrix
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1324-print-words-vertically](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1324-print-words-vertically) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0877-stone-game) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
