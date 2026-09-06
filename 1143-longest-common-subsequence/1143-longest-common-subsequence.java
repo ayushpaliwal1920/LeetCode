@@ -37,7 +37,7 @@ class Solution {
 
 
         if (s1.charAt(n1) == s2.charAt(n2)) {
-            return 1 + helperMemo1(s1, s2, n1 - 1, n2 - 1 , dp);
+            return dp[n1][n2] = 1 + helperMemo1(s1, s2, n1 - 1, n2 - 1 , dp);
         }
 
         return dp[n1][n2] = Math.max(helperMemo1(s1, s2, n1 - 1, n2 , dp), helperMemo1(s1, s2, n1, n2 - 1 , dp));
