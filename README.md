@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0322-coin-change](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0518-coin-change-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0455-assign-cookies) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1331-rank-transform-of-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0455-assign-cookies) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1753-maximum-score-from-removing-stones](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0455-assign-cookies) |
 | [0917-reverse-only-letters](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -300,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
