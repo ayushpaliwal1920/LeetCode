@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2370-longest-ideal-subsequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2370-longest-ideal-subsequence) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [2305-fair-distribution-of-cookies](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
+| [2370-longest-ideal-subsequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2370-longest-ideal-subsequence) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Matrix
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1324-print-words-vertically](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1324-print-words-vertically) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2370-longest-ideal-subsequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2370-longest-ideal-subsequence) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Two Pointers
 |  |
