@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0877-stone-game) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1753-maximum-score-from-removing-stones](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
@@ -324,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
