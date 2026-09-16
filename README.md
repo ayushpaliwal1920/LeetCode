@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0322-coin-change) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0860-lemonade-change) |
