@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Tree
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0877-stone-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
