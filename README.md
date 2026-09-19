@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1991-find-the-middle-index-in-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2090-k-radius-subarray-averages](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2090-k-radius-subarray-averages) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2370-longest-ideal-subsequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2370-longest-ideal-subsequence) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0877-stone-game) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1753-maximum-score-from-removing-stones](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## String
 |  |
