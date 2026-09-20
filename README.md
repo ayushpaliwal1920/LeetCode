@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0389-find-the-difference) |
+| [0516-longest-palindromic-subsequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0796-rotate-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0890-find-and-replace-pattern) |
