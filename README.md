@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [2305-fair-distribution-of-cookies](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2370-longest-ideal-subsequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2370-longest-ideal-subsequence) |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Matrix
 |  |
