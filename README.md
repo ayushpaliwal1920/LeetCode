@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3731-find-missing-elements) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3925-concatenate-array-with-reverse](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
