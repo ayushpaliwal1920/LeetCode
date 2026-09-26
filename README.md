@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-maximum-score-from-removing-stones](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1904-the-number-of-full-rounds-you-have-played](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1324-print-words-vertically](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1324-print-words-vertically) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1904-the-number-of-full-rounds-you-have-played](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2370-longest-ideal-subsequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2370-longest-ideal-subsequence) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
