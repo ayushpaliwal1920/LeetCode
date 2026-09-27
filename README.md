@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2090-k-radius-subarray-averages](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 ## Hash Table
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0389-find-the-difference](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0890-find-and-replace-pattern](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0796-rotate-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0796-rotate-string) |
