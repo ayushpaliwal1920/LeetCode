@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3731-find-missing-elements) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ayushpaliwal1920/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Sliding Window
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3222-find-the-winning-player-in-coin-game](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Tree
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2611-mice-and-cheese](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2611-mice-and-cheese) |
 | [3731-find-missing-elements](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3731-find-missing-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ayushpaliwal1920/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Dynamic Programming
 |  |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ayushpaliwal1920/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Queue
 |  |
@@ -372,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0836-rectangle-overlap) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
