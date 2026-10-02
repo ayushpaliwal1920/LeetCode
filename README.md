@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2090-k-radius-subarray-averages](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1904-the-number-of-full-rounds-you-have-played) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
@@ -384,5 +386,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
