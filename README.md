@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0070-climbing-stairs) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Linked List
 |  |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0494-target-sum) |
 | [2305-fair-distribution-of-cookies](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 ## 0-1 Knapsack
