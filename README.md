@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3115-maximum-prime-difference](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3731-find-missing-elements) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
+| [3115-maximum-prime-difference](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3115-maximum-prime-difference](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Euclidean Algorithm
 |  |
@@ -403,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Primality Test
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
