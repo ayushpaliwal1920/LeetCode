@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0455-assign-cookies) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0455-assign-cookies) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0148-sort-list) |
 ## String Matching
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -410,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3115-maximum-prime-difference](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3115-maximum-prime-difference) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
