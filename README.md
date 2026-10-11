@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2611-mice-and-cheese](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2611-mice-and-cheese) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/ayushpaliwal1920/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
@@ -418,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ayushpaliwal1920/LeetCode/tree/master/0148-sort-list) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
