@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2370-longest-ideal-subsequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/2370-longest-ideal-subsequence) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1324-print-words-vertically](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1324-print-words-vertically) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushpaliwal1920/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
